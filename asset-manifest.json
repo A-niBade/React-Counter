@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/A-niBade/React-Counter/static/css/main.3c443387.chunk.css",
+    "main.js": "/A-niBade/React-Counter/static/js/main.cf688f7d.chunk.js",
+    "main.js.map": "/A-niBade/React-Counter/static/js/main.cf688f7d.chunk.js.map",
+    "runtime-main.js": "/A-niBade/React-Counter/static/js/runtime-main.c6608916.js",
+    "runtime-main.js.map": "/A-niBade/React-Counter/static/js/runtime-main.c6608916.js.map",
+    "static/js/2.959cb2fa.chunk.js": "/A-niBade/React-Counter/static/js/2.959cb2fa.chunk.js",
+    "static/js/2.959cb2fa.chunk.js.map": "/A-niBade/React-Counter/static/js/2.959cb2fa.chunk.js.map",
+    "index.html": "/A-niBade/React-Counter/index.html",
+    "static/css/main.3c443387.chunk.css.map": "/A-niBade/React-Counter/static/css/main.3c443387.chunk.css.map",
+    "static/js/2.959cb2fa.chunk.js.LICENSE.txt": "/A-niBade/React-Counter/static/js/2.959cb2fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6608916.js",
+    "static/js/2.959cb2fa.chunk.js",
+    "static/css/main.3c443387.chunk.css",
+    "static/js/main.cf688f7d.chunk.js"
+  ]
+}
